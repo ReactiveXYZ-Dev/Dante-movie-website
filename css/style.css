@@ -150,11 +150,11 @@
   font-weight: normal;
 }
 
-.demo-footer {
+.footer {
   padding: 60px 0;
   text-align: center;
 }
-.demo-footer a {
+.footer a {
   color: #999;
   display: inline-block;
   font-family: Cardo;
